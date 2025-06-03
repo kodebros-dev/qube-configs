@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/kodebros-dev/qube-infrastructure.git
-    path: applications
+    path: qube-lite
     directory:
       recurse: true
   destination:
